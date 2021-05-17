@@ -1,0 +1,9 @@
+Building Coinbear
+
+See doc/readme-qt.rst for instructions on building Coinbear-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Coinbear.
+
+See doc/build-*.txt for instructions on building coinbeard,
+the intended-for-services, no-graphical-interface, reference
+implementation of Coinbear.
